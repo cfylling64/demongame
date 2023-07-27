@@ -1,0 +1,22 @@
+{
+  "DEMONGAME.AbilityStr": "Strength",
+  "DEMONGAME.AbilityCon": "Constitution",
+  "DEMONGAME.AbilityDex": "Dexterity",
+  "DEMONGAME.AbilityInt": "Intelligence",
+  "DEMONGAME.AbilityWis": "Wisdom",
+  "DEMONGAME.AbilityCha": "Charisma",
+
+  "DEMONGAME.AbilityStrAbbr": "str",
+  "DEMONGAME.AbilityConAbbr": "con",
+  "DEMONGAME.AbilityDexAbbr": "dex",
+  "DEMONGAME.AbilityIntAbbr": "int",
+  "DEMONGAME.AbilityWisAbbr": "wis",
+  "DEMONGAME.AbilityChaAbbr": "cha",
+
+  "DEMONGAME.EffectCreate": "Create Effect",
+  "DEMONGAME.EffectToggle": "Toggle Effect",
+  "DEMONGAME.EffectEdit": "Edit Effect",
+  "DEMONGAME.EffectDelete": "Delete Effect",
+
+  "DEMONGAME.Add": "Add"
+}
