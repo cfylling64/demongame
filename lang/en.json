@@ -1,17 +1,17 @@
 {
   "DEMONGAME.AbilityStr": "Strength",
-  "DEMONGAME.AbilityCon": "Constitution",
+  "DEMONGAME.AbilityEnd": "Endurance",
   "DEMONGAME.AbilityDex": "Dexterity",
-  "DEMONGAME.AbilityInt": "Intelligence",
-  "DEMONGAME.AbilityWis": "Wisdom",
+  "DEMONGAME.AbilitySpd": "Speed",
   "DEMONGAME.AbilityCha": "Charisma",
+  "DEMONGAME.AbilityInt": "Intelligence",
 
   "DEMONGAME.AbilityStrAbbr": "str",
-  "DEMONGAME.AbilityConAbbr": "con",
+  "DEMONGAME.AbilityEndAbbr": "end",
   "DEMONGAME.AbilityDexAbbr": "dex",
-  "DEMONGAME.AbilityIntAbbr": "int",
-  "DEMONGAME.AbilityWisAbbr": "wis",
+  "DEMONGAME.AbilitySpdAbbr": "spd",
   "DEMONGAME.AbilityChaAbbr": "cha",
+  "DEMONGAME.AbilityIntAbbr": "int",
 
   "DEMONGAME.EffectCreate": "Create Effect",
   "DEMONGAME.EffectToggle": "Toggle Effect",
