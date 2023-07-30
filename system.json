@@ -2,11 +2,11 @@
   "id": "demongame",
   "title": "Demongame",
   "description": "The Demongame system for FoundryVTT!",
-  "version": "1.2.0",
+  "version": "0.1.0-alpha",
   "compatibility": {
     "minimum": 10,
-    "verified": "10.287",
-    "maximum": 10
+    "verified": "11.306",
+    "maximum": 12
   },
   "authors": [{
     "name": "Cayce Fylling",
@@ -27,9 +27,9 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/cfylling64/demongame.git",
+  "manifest": "https://github.com/cfylling64/demongame/blob/main/system.json",
+  "download": "https://github.com/cfylling64/demongame/archive/refs/heads/main.zip",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
 }

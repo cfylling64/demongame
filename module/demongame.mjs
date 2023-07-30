@@ -30,6 +30,7 @@ Hooks.once('init', async function() {
    * @type {String}
    */
   CONFIG.Combat.initiative = {
+    // should be speed if defending?
     formula: "1d20 + @abilities.dex.mod",
     decimals: 2
   };

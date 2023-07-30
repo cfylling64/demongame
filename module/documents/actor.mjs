@@ -17,6 +17,7 @@ export class DemongameActor extends Actor {
   prepareBaseData() {
     // Data modifications in this step occur before processing embedded
     // documents or derived data.
+    // This may stay blank
   }
 
   /**
@@ -51,7 +52,11 @@ export class DemongameActor extends Actor {
     // Loop through ability scores, and add their modifiers to our sheet output.
     for (let [key, ability] of Object.entries(systemData.abilities)) {
       // Calculate the modifier using d20 rules.
-      ability.mod = Math.floor((ability.value - 10) / 2);
+      if (ability.value < 0) {
+      ability.mod = -1;
+      } else {
+      ability.mod = Math.floor(ability.value / 2);
+         } 
     }
   }
 

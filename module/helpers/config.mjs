@@ -6,18 +6,18 @@ export const DEMONGAME = {};
  */
  DEMONGAME.abilities = {
   "str": "DEMONGAME.AbilityStr",
+  "end": "DEMONGAME.AbilityEnd",
   "dex": "DEMONGAME.AbilityDex",
-  "con": "DEMONGAME.AbilityCon",
-  "int": "DEMONGAME.AbilityInt",
-  "wis": "DEMONGAME.AbilityWis",
-  "cha": "DEMONGAME.AbilityCha"
+  "spd": "DEMONGAME.AbilitySpd",
+  "cha": "DEMONGAME.AbilityCha",
+  "int": "DEMONGAME.AbilityInt"
 };
 
 DEMONGAME.abilityAbbreviations = {
   "str": "DEMONGAME.AbilityStrAbbr",
+  "end": "DEMONGAME.AbilityEndAbbr",
   "dex": "DEMONGAME.AbilityDexAbbr",
-  "con": "DEMONGAME.AbilityConAbbr",
-  "int": "DEMONGAME.AbilityIntAbbr",
-  "wis": "DEMONGAME.AbilityWisAbbr",
-  "cha": "DEMONGAME.AbilityChaAbbr"
+  "spd": "DEMONGAME.AbilitySpdAbbr",
+  "cha": "DEMONGAME.AbilityChaAbbr",
+  "int": "DEMONGAME.AbilityIntAbbr"
 };
