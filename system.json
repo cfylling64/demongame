@@ -5,8 +5,8 @@
   "version": "0.1.0-alpha",
   "compatibility": {
     "minimum": 10,
-    "verified": "11.306",
-    "maximum": 12
+    "verified": "10.287",
+    "maximum": 11
   },
   "authors": [{
     "name": "Cayce Fylling",
